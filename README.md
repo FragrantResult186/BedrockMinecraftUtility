@@ -4,6 +4,7 @@
 repositories {
     mavenCentral()
     maven { url "https://jitpack.io" }
+    maven { url "https://libraries.minecraft.net" }
 }
 ```
 
